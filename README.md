@@ -3,7 +3,8 @@ By following this tutorial, you'll set up a development environment, deploy an a
 
 
 ## Before you begin
-This is part of the 2021 Call for Code events - https://www.crowdcast.io/e/cfc2021-ibmcloud
+Note: This repo is part of the 2021 Call for Code events - https://www.crowdcast.io/e/cfc2021-ibmcloud
+
 
 You'll need the following accounts and tools:
 
