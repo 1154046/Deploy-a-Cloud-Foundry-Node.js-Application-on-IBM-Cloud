@@ -24,12 +24,15 @@ You'll need the following accounts and tools:
 2. Navigate to https://cloud.ibm.com/cloudfoundry/overview
 
 Click on create to choose a runtime.
+
 ![Screenshot (632)](https://user-images.githubusercontent.com/20628307/118638951-ab04c400-b7d7-11eb-872b-8450e53282a6.png)
 
 Choose Lite Plan Pricing Plan and navigate down.
+
 ![Screenshot (633)](https://user-images.githubusercontent.com/20628307/118638970-b0620e80-b7d7-11eb-985b-234ffb72d6b2.png)
 
-Select the SDK for Node.js runtime and enter a unique name for your application.
+Select the SDK for Node.js runtime and enter a unique name for your application. Then click create.
+
 ![Screenshot (634)](https://user-images.githubusercontent.com/20628307/118638979-b3f59580-b7d7-11eb-8794-c4b603882c57.png)
 
 
