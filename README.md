@@ -1,4 +1,4 @@
-# Deploy-a-Cloud-Foundry-Node.js-Application-on-IBM-Cloud
+# Deploy a Cloud Foundry Node.js Application on IBM-Cloud
 By following this tutorial, you'll set up a development environment, deploy an app locally on IBM Cloud®, and integrate an IBM Cloud database service in your app.
 
 
@@ -7,10 +7,11 @@ This is part of the 2021 Call for Code events - https://www.crowdcast.io/e/cfc20
 
 You'll need the following accounts and tools:
 
-1. IBM Cloud account -  https://ibm.biz/BdfPVJ ( Follow steps to get started with Call for Code )
-2. IBM Cloud CLI - https://cloud.ibm.com/docs/cli?topic=cli-getting-started
-3. Git - https://git-scm.com/downloads
-4. Node - https://nodejs.org/en/
+1. IBM Cloud account -  https://ibm.biz/BdfPVJ 
+( Follow steps to get started with Call for Code )
+3. IBM Cloud CLI - https://cloud.ibm.com/docs/cli?topic=cli-getting-started
+4. Git - https://git-scm.com/downloads
+5. Node - https://nodejs.org/en/
 
 
 ## Steps
