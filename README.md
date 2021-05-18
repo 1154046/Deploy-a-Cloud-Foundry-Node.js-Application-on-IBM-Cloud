@@ -72,13 +72,13 @@ $ npm start
 
 To deploy to IBM Cloud, it can be helpful to set up a manifest.yml file. The manifest.yml includes basic information about your app, such as the name, how much memory to allocate for each instance and the route. We've provided a sample manifest.yml file in the get-started-node directory.
 
-Open the manifest.yml file, and change the name from GetStartedNode to your app name, app_name.
+Open the manifest.yml file, and change the name from GetStartedNode to your app name, app_name. You might need to increase this later on to allocate more memory.
 
 ```
 applications:
-- name: GetStartedNode
+- name: appname-101
   random-route: true
-  memory: 128M
+  memory: 64M
 ```
 
 ### Step 4: Deploy the app
