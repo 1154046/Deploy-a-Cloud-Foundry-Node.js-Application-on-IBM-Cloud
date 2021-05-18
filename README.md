@@ -35,6 +35,9 @@ Select the SDK for Node.js runtime and enter a unique name for your application.
 
 ![Screenshot (634)](https://user-images.githubusercontent.com/20628307/118638979-b3f59580-b7d7-11eb-8794-c4b603882c57.png)
 
+You will be redirected to your App Home Page. 
+
+For the next part, you will need to use your terminal.
 
 ### Step 2: Clone the sample app
 
