@@ -27,7 +27,7 @@ Click on create to choose a runtime.
 
 ![Screenshot (632)](https://user-images.githubusercontent.com/20628307/118638951-ab04c400-b7d7-11eb-872b-8450e53282a6.png)
 
-Choose Lite Plan Pricing Plan and navigate down.
+Choose the Lite Plan Pricing Plan and navigate down.
 
 ![Screenshot (633)](https://user-images.githubusercontent.com/20628307/118638970-b0620e80-b7d7-11eb-985b-234ffb72d6b2.png)
 
