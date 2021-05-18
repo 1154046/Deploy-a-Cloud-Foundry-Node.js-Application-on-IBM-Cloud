@@ -107,7 +107,7 @@ $ ibmcloud cf push
 
 Deploying your application can take a few minutes. When deployment completes, you'll see a message that your app is running. View your app at the URL listed in the output of the push command, or view both the app deployment status and the URL by running the following command:
 ```
-$ ibmcloud cf push 
+$ ibmcloud cf apps 
 ```
 
 Step 5: Add a database
