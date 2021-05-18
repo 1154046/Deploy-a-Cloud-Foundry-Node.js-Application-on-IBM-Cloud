@@ -43,32 +43,29 @@ You will be redirected to your App Home Page.
 
 For the next part, you will need to use your terminal.
 
-### Step 2: Clone the sample app
+### Step 2: Run the app locally
 
 First, clone the Node.js hello world sample app GitHub repo.
 
 ```
-$ git clone https://github.com/IBM-Cloud/get-started-node
+git clone https://github.com/IBM-Cloud/get-started-node
 ```
-
-
-### Step 2: Run the app locally
 
 Use the npm package manager to install dependencies and run your app.
 
 1. On the command line, change the directory to where the sample app is located.
 ```
-$ cd get-started-node
+cd get-started-node
 ```
 
 2. Install the dependencies listed in the package.json External link icon file to run the app locally. 
 ```
-$ npm install
+npm install
 ```
 
 3. Run the app.
 ```
-$ npm start
+npm start
 ```
 
 
@@ -91,27 +88,27 @@ You can use the IBM Cloud CLI to deploy apps to IBM Cloud.
 
 1. Log in to your IBM Cloud account, and select an API endpoint.
 ```
-$ ibmcloud login 
+ibmcloud login 
 ```
 If you have a federated user ID, instead use the following command to log in with your single sign-on ID. 
 ```
-$ ibmcloud login --sso 
+ibmcloud login --sso 
 ```
 
 2. Target a Cloud Foundry org and space:
 ```
-$ ibmcloud target --cf 
+ibmcloud target --cf 
 ```
 If you don't have an org or a space set up, see https://cloud.ibm.com/docs/account?topic=account-orgsspacesusers.
 
 3. From within the get-started-node directory, push your app to IBM Cloud.
 ```
-$ ibmcloud cf push 
+ibmcloud cf push 
 ```
 
 Deploying your application can take a few minutes. When deployment completes, you'll see a message that your app is running. View your app at the URL listed in the output of the push command, or view both the app deployment status and the URL by running the following command:
 ```
-$ ibmcloud cf apps 
+ibmcloud cf apps 
 ```
 
 Step 5: Add a database
