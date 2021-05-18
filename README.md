@@ -30,17 +30,17 @@ $ git clone https://github.com/IBM-Cloud/get-started-node
 
 Use the npm package manager to install dependencies and run your app.
 
-On the command line, change the directory to where the sample app is located.
+1. On the command line, change the directory to where the sample app is located.
 ```
 $ cd get-started-node
 ```
 
-Install the dependencies listed in the package.json External link icon file to run the app locally. 
+2. Install the dependencies listed in the package.json External link icon file to run the app locally. 
 ```
 $ npm install
 ```
 
-Run the app.
+3. Run the app.
 ```
 $ npm start
 ```
